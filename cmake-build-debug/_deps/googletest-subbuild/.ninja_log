@@ -1,0 +1,21 @@
+# ninja log v5
+1	48	6867225337416316	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ee8b94b26fdceb88
+1	48	6867225337416316	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	ee8b94b26fdceb88
+48	4013	6867225377059531	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6a4cc4c29bee88f2
+48	4013	6867225377059531	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6a4cc4c29bee88f2
+4013	4127	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4aafcb3530764d5a
+4013	4127	0	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4aafcb3530764d5a
+4128	4172	6867225378649890	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4cc01c0b390352e9
+4128	4172	6867225378649890	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4cc01c0b390352e9
+4172	4213	6867225379059997	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8aac1f00b91b157
+4172	4213	6867225379059997	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8aac1f00b91b157
+4213	4255	6867225379490085	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5f9f2648d69f7fc5
+4213	4255	6867225379490085	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5f9f2648d69f7fc5
+4255	4298	6867225379910172	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	27193b59e12e5900
+4255	4298	6867225379910172	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	27193b59e12e5900
+4298	4340	6867225380334053	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	82432f9c3eccf1e6
+4298	4340	6867225380334053	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	82432f9c3eccf1e6
+4340	4397	6867225380904160	CMakeFiles/googletest-populate-complete	dfe845744e5bd93
+4340	4397	6867225380904160	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	dfe845744e5bd93
+4340	4397	6867225380904160	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	dfe845744e5bd93
+4340	4397	6867225380904160	D:/Labs/labwork2-Mihail-mm/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	dfe845744e5bd93
